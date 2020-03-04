@@ -1,0 +1,4 @@
+Nama Database: go-shopping
+
+Username: admin
+Password: admin

@@ -1,0 +1,16 @@
+Toggle navigation
+Beranda
+admin
+MENU
+ Dashboard
+ User
+ Produk
+ Data
+ Kategori
+ Laporan
+DALAM PEMESANAN
+6
+DALAM PENGIRIMAN
+0
+BARANG DITERIMA
+0
